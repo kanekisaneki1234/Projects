@@ -1,0 +1,14 @@
+/Users/owais/csharp_tut/bin/Debug/net8.0/csharp_tut
+/Users/owais/csharp_tut/bin/Debug/net8.0/csharp_tut.deps.json
+/Users/owais/csharp_tut/bin/Debug/net8.0/csharp_tut.runtimeconfig.json
+/Users/owais/csharp_tut/bin/Debug/net8.0/csharp_tut.dll
+/Users/owais/csharp_tut/bin/Debug/net8.0/csharp_tut.pdb
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.AssemblyInfoInputs.cache
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.AssemblyInfo.cs
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.csproj.CoreCompileInputs.cache
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.dll
+/Users/owais/csharp_tut/obj/Debug/net8.0/refint/csharp_tut.dll
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.pdb
+/Users/owais/csharp_tut/obj/Debug/net8.0/csharp_tut.genruntimeconfig.cache
+/Users/owais/csharp_tut/obj/Debug/net8.0/ref/csharp_tut.dll
