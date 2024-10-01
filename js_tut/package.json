@@ -1,0 +1,13 @@
+{
+  "name": "js_tut",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "js_export.js",
+  "scripts": {
+    "start": "echo"
+  },
+  "keywords": [],
+  "author": "Owais",
+  "license": "ISC"
+}
